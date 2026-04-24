@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> من أول مرة لمستيني بحنان
+> نار الشوق أخدتني لأبعد مكان
+> عيونك سحرتني في نص الليل
+> قلبي داب في هواكي وبقى يميل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
