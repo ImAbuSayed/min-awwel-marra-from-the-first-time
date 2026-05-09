@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Min Awwel Marra – From the First Time
+
+This log tracks the cryptographic history and versioning for the song **Min Awwel Marra – From the First Time** (min-awwel-marra-from-the-first-time).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T11:19:56.655710 | `v1` | `97688f901b8ac5cfadb2a12c3829b24d1ff28ca627028a434160ba79ede4dae1` | `9038c937eef7bd0ff0008bba75d165bace4ce76e92ce34a089ea260442b1718f` | `2026-05-09_min-awwel-marra-from-the-first-time-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
